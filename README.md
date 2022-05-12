@@ -10,3 +10,8 @@
 * Главные принципы Human Interface Guidelines
 
 
+Скриншот:
+
+![](https://github.com/NGrani/WhichWasDay/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202022-05-12%20at%2021.45.39.png)
+
+
